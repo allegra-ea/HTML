@@ -1,6 +1,3 @@
-# HTML
-
-
 # Mein Sommersemester 2025
 
 *   [Stundenplan](#stundenplan)
