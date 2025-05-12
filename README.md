@@ -1,5 +1,5 @@
 # HTML
- Mein Sommersemester 2025 table { width: 80%; table-layout: fixed; border-collapse: collapse; } th, td { width: 16.66%; /\* 100% / 6 Spalten (Uhrzeit + Mo–Fr) \*/ padding: 8px; text-align: center; border: 1px solid #000; }
+
 
 # Mein Sommersemester 2025
 
